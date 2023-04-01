@@ -1,0 +1,10 @@
+hr {
+    border-style: none;
+    border-color: dimgray;
+    border-width: 5px;
+    border-top-style: dotted;
+    width: 30%;
+}
+h1{
+    color: rgb(216, 6, 6);
+}
