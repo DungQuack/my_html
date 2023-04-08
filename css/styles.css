@@ -7,4 +7,22 @@ hr {
 }
 h1{
     color: rgb(216, 6, 6);
+    font-size: 100px;
+}
+
+#heading{
+    color: rgb(25, 0, 255);
+}
+
+.more{
+    font-size: 50px;
+}
+
+.little{
+    font-size: 100px;
+    border-radius: 100%;
+}
+
+img:hover{
+    background-color: orangered;
 }
